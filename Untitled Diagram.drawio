@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-07-25T13:04:34.104Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="4dTW8ZJ4HbVKZfIU55AY" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-25T13:08:58.819Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/115.0" etag="uNIrg8JtoRaTQysEvTfH" version="21.6.5" type="github">
   <diagram name="Page-1" id="lBHg8PHQt5yoxerQ0RU8">
-    <mxGraphModel dx="4639" dy="1859" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4462" dy="1538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="DK6NX3SN01ORxNuvT1AY-1215" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.arc;startAngle=0.39964043293544205;endAngle=0.011122702613081634;rotation=105;gradientColor=none;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1740.61" y="-495.60999999999996" width="338.78" height="393.61" as="geometry" />
+        </mxCell>
         <mxCell id="DK6NX3SN01ORxNuvT1AY-1150" value="Формируетя из файлов 3i и 4i" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="215" y="-250" width="260" height="40" as="geometry" />
         </mxCell>
@@ -2731,16 +2734,16 @@
           <mxGeometry x="2199.4" y="-320" width="45.6" height="61.800000000000004" as="geometry" />
         </mxCell>
         <mxCell id="DK6NX3SN01ORxNuvT1AY-1165" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=middle;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#2072B8;" vertex="1" parent="1">
-          <mxGeometry x="1495" y="-610" width="25" height="53" as="geometry" />
+          <mxGeometry x="1560.3" y="-607" width="25" height="53" as="geometry" />
         </mxCell>
         <mxCell id="DK6NX3SN01ORxNuvT1AY-1166" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=middle;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#DA4026;" vertex="1" parent="1">
-          <mxGeometry x="2270" y="-610" width="25" height="53" as="geometry" />
+          <mxGeometry x="2209.7" y="-610" width="25" height="53" as="geometry" />
         </mxCell>
         <mxCell id="DK6NX3SN01ORxNuvT1AY-1167" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=middle;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#7FBA42;" vertex="1" parent="1">
-          <mxGeometry x="1520" y="-300.00000000000006" width="25" height="53" as="geometry" />
+          <mxGeometry x="1560.3" y="-300.00000000000006" width="25" height="53" as="geometry" />
         </mxCell>
         <mxCell id="DK6NX3SN01ORxNuvT1AY-1168" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#3700CC;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=middle;outlineConnect=0;align=center;shape=mxgraph.office.security.key_permissions;fillColor=#6a00ff;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="2260" y="-311.20000000000005" width="25" height="53" as="geometry" />
+          <mxGeometry x="2209.7" y="-311.20000000000005" width="25" height="53" as="geometry" />
         </mxCell>
         <mxCell id="DK6NX3SN01ORxNuvT1AY-1169" value="" style="shape=message;html=1;html=1;outlineConnect=0;labelPosition=center;verticalLabelPosition=bottom;align=center;verticalAlign=top;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="2600" y="-690" width="68" height="50" as="geometry" />
@@ -2837,6 +2840,9 @@
         </mxCell>
         <mxCell id="DK6NX3SN01ORxNuvT1AY-1214" value="ОТ АЛИСЫ к БОБУ" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1850" y="-450" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DK6NX3SN01ORxNuvT1AY-1216" value="" style="triangle;whiteSpace=wrap;html=1;rotation=140;fillColor=#33001A;" vertex="1" parent="1">
+          <mxGeometry x="2072" y="-250.00000000000003" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
